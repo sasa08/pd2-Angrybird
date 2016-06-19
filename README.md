@@ -16,8 +16,8 @@ This Game have 4 Birds :
 * The BLUES:The blue birds,which can spilit into three birds.
 
 This Game have others :
-＊ PIG: The enemy. They will be killed by birds.
-＊ barrier: The cube. It can provide the defense for the pigs.
+* PIG: The enemy. They will be killed by birds.
+*  barrier: The cube. It can provide the defense for the pigs.
 
 # How to play
 * A start window : Press E or M to choose the game.
