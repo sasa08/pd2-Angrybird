@@ -34,7 +34,8 @@ This Game have others :
   * image : store the image we use.
 
 # Reference 
-[box2D](http://box2d.org/)(http://www.learn-cocos2d.com/api-ref/1.0/Box2D/html/classb2_body.html)
-[Stack overflow](http://stackoverflow.com)
-[iforce 2D](http://www.iforce2d.net/b2dtut/bodies)
-    And with a lot of different sample code.
+* [box2D](http://box2d.org/)
+* [coco2D](http://www.learn-cocos2d.com/api-ref/1.0/Box2D/html/classb2_body.html)
+* [Stack overflow](http://stackoverflow.com)
+* [iforce 2D](http://www.iforce2d.net/b2dtut/bodies)
+    * And with a lot of different sample code.
