@@ -1,7 +1,7 @@
 # pd2-Angrybird
 Final project of 2016 Spring Class
 
-# the content
+# The Content
 
 This Game have 4 windows :
 * A start window , it can choose playing on the earth(-9.8) or in the moon(-9.8/3 (/6 will be too tight to play)).(Basic control of game , world of box2D have been created.)
